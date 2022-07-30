@@ -1,10 +1,10 @@
 {
-  "name": "sanitybackend",
+  "name": "sanity-backend",
   "private": true,
   "version": "1.0.0",
   "description": "",
   "main": "package.json",
-  "author": "JavaScript Mastery <javascriptmastery00@gmail.com>",
+  "author": "Muazu Abu <kakupepe09@gmail.com>",
   "license": "UNLICENSED",
   "scripts": {
     "start": "sanity start",
@@ -30,6 +30,6 @@
   "devDependencies": {},
   "repository": {
     "type": "git",
-    "url": "https://github.com/adrianhajdin/project_tiktik.git"
+    "url": "git@github.com:Abumuazu/Bulb-Video-sharing-social-app-.git"
   }
 }
