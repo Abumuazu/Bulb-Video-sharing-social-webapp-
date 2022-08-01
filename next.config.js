@@ -6,7 +6,9 @@ const nextConfig = {
       'lh3.googleusercontent.com',
       'cdn.pixabay.com',
       'p16-amd-va.tiktokcdn.com',
-      'image.shutterstock.com'
+      'image.shutterstock.com', 
+      'im.ge', 
+      'i.im.ge'
     ],
   },
 };
